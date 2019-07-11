@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "Practice Areas"
 permalink: /practiceareas/
 header:
