@@ -1,6 +1,6 @@
 ---
 title: "Practice Areas"
-permalink: /practiceareas/
+permalink: /practice-areas/
 header:
   image: "/images/ambulance1.jpg"
 ---
